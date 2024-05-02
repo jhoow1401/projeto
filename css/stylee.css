@@ -1,0 +1,50 @@
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: blanchedalmond;
+
+}
+
+li{
+
+    float: left;
+
+}
+
+li a{
+
+    display: block;
+    color: darkgrey;
+    text-align: center;
+    padding: 10px 16px;
+    text-decoration: none;
+
+}
+li a:hover{
+    background-color: lightslategray;
+
+}
+footer{
+    margin-top: 14px;
+    left: 0;
+    bottom: 0;
+    width: 100;
+    background-color: aliceblue;
+    color: azure;
+    text-align: center;
+    padding: 0 14px;
+}
+.img-reposive{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.map-reposive{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

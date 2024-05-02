@@ -1,0 +1,19 @@
+.texto{
+    color:rgb(0, 17, 255);
+    font-size: 30px;
+    font-weight: 800;
+
+}
+
+h1{
+    color: rgb(0, 153, 255);
+    font-style: italic;
+    font-size: 40px;
+
+}
+h2{
+    color: rgb(255, 255, 255);
+    font-style: italic;
+    font-size: 30px;
+
+}
